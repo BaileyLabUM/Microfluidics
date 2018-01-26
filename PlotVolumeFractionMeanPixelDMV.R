@@ -1,6 +1,6 @@
 #This function works if you first set your working directory to the file with the DMV outputs. Then use: 
 #WorkingFiles <- list.files(pattern = ".txt")
-#Then source the code and run TidyData(WorkingFiles)
+#Then source the code and run PlotMyDMV(WorkingFiles)
 
 PlotMyDMV <- function(x) {
   
